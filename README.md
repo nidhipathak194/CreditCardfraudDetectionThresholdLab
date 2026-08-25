@@ -12,8 +12,8 @@ An interactive, executive-grade decision intelligence platform investigating the
 ## 🌐 Live Public Deployment
 
 The application is deployed live on **Streamlit Community Cloud**:
-* **Live App URL**: [https://uniprojectfinal.streamlit.app](https://uniprojectfinal.streamlit.app)
-* **GitHub Repository**: [https://github.com/nidhipathak194/UniprojectFinal](https://github.com/nidhipathak194/UniprojectFinal)
+* **Live App URL**: [https://creditcardfrauddetectionthresholdlab.streamlit.app](https://creditcardfrauddetectionthresholdlab.streamlit.app)
+* **GitHub Repository**: [https://github.com/nidhipathak194/CreditCardfraudDetectionThresholdLab](https://github.com/nidhipathak194/CreditCardfraudDetectionThresholdLab)
 
 ---
 
