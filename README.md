@@ -12,7 +12,7 @@ An interactive, executive-grade decision intelligence platform investigating the
 ## 🌐 Live Public Deployment
 
 The application is deployed live on **Streamlit Community Cloud**:
-* **Live App URL**: [https://creditcardfrauddetectionthresholdlab.streamlit.app](https://creditcardfrauddetectionthresholdlab.streamlit.app)
+* **Live App URL**: [https://creditcardfrauddetectionthresholdlab-mzorwjcrjvvwygebtvne6e.streamlit.app/](https://creditcardfrauddetectionthresholdlab.streamlit.app)
 * **GitHub Repository**: [https://github.com/nidhipathak194/CreditCardfraudDetectionThresholdLab](https://github.com/nidhipathak194/CreditCardfraudDetectionThresholdLab)
 
 ---
